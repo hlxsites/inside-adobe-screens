@@ -9,11 +9,19 @@
     ],
     "defaultProvider": "franklin"
   },
-  "timestamp": 1684842470179,
+  "timestamp": 1684842850436,
   "entries": [
     {
       "path": "/content/screens/employee-communications/locations/global/test-north-america.html",
-      "timestamp": 1683107298000
+      "timestamp": 1684842850111
+    },
+    {
+      "path": "/content/screens/assets/test-global-slide.png",
+      "timestamp": 1684842322000
+    },
+    {
+      "path": "/content/screens/assets/test-north-america-slide.png",
+      "timestamp": 1684842326000
     }
   ]
 }
